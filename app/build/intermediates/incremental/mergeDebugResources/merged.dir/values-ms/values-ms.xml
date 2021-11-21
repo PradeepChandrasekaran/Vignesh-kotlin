@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="albums_plural">
+        <item quantity="one">%d Album</item>
+        <item quantity="other">%d Album</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d pemberitahuan baharu</item>
+    <item quantity="other">%d pemberitahuan baharu</item>
+  </plurals>
+    <plurals name="tracks_plural">
+        <item quantity="one">%d Trek</item>
+        <item quantity="other">%d Trek</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigasi laman utama"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigasi ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Lagi pilihan"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih apl"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"MATI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"HIDUP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fungsi+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"ruang"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cari…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Kosongkan pertanyaan"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Pertanyaan carian"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cari"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Serah pertanyaan"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Carian suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Kongsi dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Kongsi dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Runtuhkan"</string>
+    <string name="add_file_to_playlist">Tambah fail ke senarai</string>
+    <string name="add_folder_to_playlist">Tambah folder ke senarai</string>
+    <string name="add_to_playlist">Tambahkan ke senarai main</string>
+    <string name="add_to_queue">Tambahkan ke Barisan</string>
+    <string name="album_count">Kiraan Album</string>
+    <string name="albums">Album</string>
+    <string name="all_songs">Semua lagu</string>
+    <string name="all_songs_cannot_be_deleted">\'Semua lagu\' senarai main tidak dapat dipadamkan</string>
+    <string name="all_tracks">Semua trek</string>
+    <string name="app_launcher_name">Pemain Muzik</string>
+    <string name="app_long_description">
+        Pemain muzik sederhana yang mudah dikawal dari bar status, widget skrin utama atau butang perkakasan pada alat dengar anda. Ini menyediakan semua fungsi yang diharapkan seperti menyusun dalam pelbagai cara serta mengubah Equalizer. Dengarkan mp3 kegemaran anda, lagu atau podcast lain dengan pemain muzik cantik percuma ini.
+
+        Ia menawarkan tambahan eksklusif seperti Cari dan menunjukkan Art Album, pemasa tidur(sleep timer) dan banyak tetapan lain. Pemain muzik yang elegan ini membolehkan anda membuat dan mengurus senarai main berguna seperti yang anda mahukan.
+
+        Senarai main disokong sepenuhnya. Anda boleh menambah fail individu, atau keseluruhan folder. Sekiranya anda tidak menyukai fail, anda boleh menghapusnya dari senarai main, atau memadam fail sebenar sama sekali.
+
+        Dilengkapi dengan pemasa tidur yang praktikal sehingga anda dapat menunda masa aplikasi dimatikan dengan pasti.
+
+        Menyokong pengacakan dan pengulangan lagu tertentu, serta melangkau dan meneruskan cepat.
+
+        Terdapat dalam pelbagai bahasa, menawarkan banyak penyamaan yang berbeza.
+
+        Periksa sifat fail dengan mudah seperti ukuran, tempoh, terakhir diubahsuai dll.
+
+        Ubah suai data EXIF ​​seperti tajuk lagu dan artis.
+
+        Kongsi fail dengan rakan anda dengan cepat di rangkaian sosial, e-mel, atau di mana sahaja yang anda mahukan.
+
+        Pemain muzik bergaya ini mengandungi widget dengan warna teks yang disesuaikan, alfa dan warna latar untuk akses dan kawalan yang mudah.
+
+        Ia dengan betul menangani maksud pihak ketiga juga untuk memainkan fail audio individu sehingga dapat membantu mengatur nada dering juga.
+
+        Ia dilengkapi dengan reka bentuk bahan dan tema gelap secara lalai, memberikan pengalaman pengguna yang hebat untuk penggunaan yang mudah. Kekurangan akses internet memberi anda lebih banyak privasi, keselamatan dan kestabilan daripada aplikasi lain.
+
+        Tidak mengandungi iklan atau kebenaran yang tidak perlu. Ia sepenuhnya terbuka, memberikan warna yang dapat disesuaikan.
+
+        <b>Lihat set lengkap Alat Mudah di sini:</b>
+        https://www.simplemobiletools.com
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+    <string name="app_name">Pemain Muzik Ringkas</string>
+    <string name="app_short_description">Pemain muzik dengan widget yang dapat disesuaikan, bergaya, tanpa iklan.</string>
+    <string name="app_title">Pemain Muzik Ringkas</string>
+    <string name="artist_name">Nama Artis</string>
+    <string name="artists">Artis</string>
+    <string name="bottomsheet_action_expand_halfway">Kembangkan helaian bawah</string>
+    <string name="character_counter_content_description">Aksara dimasukkan %1$d daripada %2$d</string>
+    <string name="character_counter_overflowed_content_description">Melebihi had aksara %1$d daripada %2$d</string>
+    <string name="clear_text_end_icon_content_description">Kosongkan teks</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Guna kata laluan"</string>
+    <string name="create_new_playlist">Buat senarai main baru</string>
+    <string name="create_playlist_from_folder">Buat senarai main baru dari folder</string>
+    <string name="create_playlist_from_queue">Buat senarai main dari barisan</string>
+    <string name="create_playlist_label">Anda boleh buat senarai main baru dengan pilih artis, album atau trek yang dikehendaki dan klik Menu -> Tambahkan ke senarai main.</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Ralat tidak diketahui"</string>
+    <string name="delete_current_song">Padamkan lagu semasa</string>
+    <string name="delete_the_files_too">Padamkan fail juga</string>
+    <string name="disable_shuffle">Lumpuhkan rombakan</string>
+    <string name="empty_playlist">Senarai main semasa kosong</string>
+    <string name="enable_shuffle">Dayakan rombakan</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="error_icon_content_description">Ralat</string>
+    <string name="exposed_dropdown_menu_content_description">Tunjukkan menu lungsur</string>
+    <string name="faq_1_text">Anda boleh mengklik pada teks semasa atau maksimum yang berada di dekat bar carian, yang akan menggerakkan lagu itu ke belakang atau ke hadapan.</string>
+    <string name="faq_1_title">Bagaimana saya boleh meneruskan lagu?</string>
+    <string name="fetching_songs">Mengambil lagu...</string>
+    <string msgid="5462024216548165325" name="fingerprint_dialog_icon_description">"Ikon cap jari"</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Sentuh penderia cap jari"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Perkakasan cap jari tidak tersedia."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Peranti ini tiada penderia cap jari"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Terlalu banyak percubaan. Sila cuba sebentar lagi."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"Tiada cap jari didaftarkan."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"Pengendalian cap jari dibatalkan oleh pengguna."</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"Tidak dikenali"</string>
+    <string name="folder_contains_no_audio">Folder yang dipilih tidak mengandungi fail audio</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"PIN, corak atau kata laluan tidak ditetapkan."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Peranti ini tidak menyokong PIN, corak atau kata laluan."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"Pengesahan dibatalkan oleh pengguna."</string>
+    <string name="icon_content_description">Ikon Dialog</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="loading_files">Memuatkan fail…</string>
+    <string name="manage_playlists">Urus senarai main</string>
+    <string name="material_clock_toggle_content_description">Pilih AM atau PM</string>
+    <string name="material_hour_selection">Pilih jam</string>
+    <string name="material_hour_suffix">Pukul %1$s</string>
+    <string name="material_minute_selection">Pilih minit</string>
+    <string name="material_minute_suffix">%1$s minit</string>
+    <string name="material_timepicker_am">PG</string>
+    <string name="material_timepicker_clock_mode_description">Beralih ke mod jam untuk input masa.</string>
+    <string name="material_timepicker_hour">Jam</string>
+    <string name="material_timepicker_minute">Minit</string>
+    <string name="material_timepicker_pm">P/M</string>
+    <string name="material_timepicker_select_time">Pilih masa</string>
+    <string name="material_timepicker_text_input_mode_description">Beralih ke mod input teks untuk input masa.</string>
+    <string name="mtrl_badge_numberless_content_description">Pemberitahuan baharu</string>
+    <string name="mtrl_chip_close_icon_content_description">Alih keluar %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Lebih daripada %1$d pemberitahuan baharu</string>
+    <string name="mtrl_picker_a11y_next_month">Tukar kepada bulan seterusnya</string>
+    <string name="mtrl_picker_a11y_prev_month">Tukar kepada bulan sebelumnya</string>
+    <string name="mtrl_picker_announce_current_selection">Pilihan semasa: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Pilih Tarikh</string>
+    <string name="mtrl_picker_date_header_unselected">Tarikh dipilih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Lajur hari: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format tidak sah.</string>
+    <string name="mtrl_picker_invalid_format_example">Contoh: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gunakan: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Julat tidak sah.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigasi ke tahun %1$s</string>
+    <string name="mtrl_picker_out_of_range">Di luar julat: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tarikh mula – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tarikh tamat</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Pilih Julat</string>
+    <string name="mtrl_picker_range_header_unselected">Tarikh mula – Tarikh tamat</string>
+    <string name="mtrl_picker_save">Simpan</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarikh</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tarikh tamat</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tarikh mula</string>
+    <string name="mtrl_picker_text_input_day_abbr">h</string>
+    <string name="mtrl_picker_text_input_month_abbr">b</string>
+    <string name="mtrl_picker_text_input_year_abbr">t</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Beralih kepada mod input kalendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Ketik untuk beralih kepada pemilihan hari</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Beralih kepada mod input teks</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Ketik untuk beralih kepada pemilihan tahun</string>
+    <string name="next_track">Seterusnya:</string>
+    <string name="open_playlist">Buka senarai main</string>
+    <string name="password_toggle_content_description">Tunjukkan kata laluan</string>
+    <string name="playback_speed">Kelajuan main balik</string>
+    <string name="playlist_empty">Senarai main anda kosong</string>
+    <string name="playlist_name_exists">Senarai main dengan nama itu sudah ada</string>
+    <string name="playlists">SenaraiMain</string>
+    <string name="remove_current_song">Alih keluar lagu semasa dari senarai main</string>
+    <string name="remove_from_playlist">Alih keluar dari senarai</string>
+    <string name="remove_from_playlist_description">Ini hanya akan membuang item dari senarai main \"%s\", fail sebenar tidak akan dihapuskan.</string>
+    <string name="remove_from_queue">Alih keluar dari Barisan</string>
+    <string name="remove_playlist">Alih keluar senarai</string>
+    <string name="remove_playlist_description">Ini hanya akan membuang senarai main yang dipilih, bukan fail sebenar.</string>
+    <string name="remove_playlist_description_placeholder">Ini hanya akan membuang senarai main \"%s\", bukan fail sebenar.</string>
+    <string name="rename_playlist">Namakan semula senarai main</string>
+    <string name="rename_song">Namakan semula lagu</string>
+    <string name="rename_song_empty">Sila isi semua bidang</string>
+    <string name="rename_song_error">Ralat berlaku semasa proses penamaan</string>
+    <string name="repeat_off">Repeat off</string>
+    <string name="repeat_playlist">Repeat playlist</string>
+    <string name="repeat_song">Ulangi lagu semasa</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cari"</string>
+    <string name="show_album_cover">Tunjukkan kulit album di skrin utama</string>
+    <string name="show_filename">Tunjukkan nama fail sebagai tajuk lagu</string>
+    <string name="shuffle_disabled">Rombakan dilumpuhkan</string>
+    <string name="shuffle_enabled">Rombakan diaktifkan</string>
+    <string name="sleep_timer">Pemasa tidur</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_playback_after_current_song">Stop playback after current song</string>
+    <string name="swap_prev_next">Tukar butang fon kepala sebelumnya/seterusnya</string>
+    <string name="title_is_not_available">Sekiranya tajuk tidak tersedia</string>
+    <string name="track_count">Kiraan Trek</string>
+    <string name="track_queue">Barisan trek</string>
+    <string name="tracks">Trek</string>
+    <string name="volume">Kelantangan</string>
+    <string name="year">Tahun</string>
+</resources>

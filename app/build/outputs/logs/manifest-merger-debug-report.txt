@@ -1,0 +1,875 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:186:9-194:20
+	android:grantUriPermissions
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:190:13-47
+	android:authorities
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:188:13-60
+	android:exported
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:189:13-37
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:187:13-62
+manifest
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:1-442:12
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:1-442:12
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:1-442:12
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:1-442:12
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:2:1-56:12
+MERGED from [com.github.tibbi:RecyclerView-FastScroller:1e7a69ff71] C:\Users\saravanakumar\.gradle\caches\transforms-3\f1a2a72072fd9a81bcb953c16c9027b0\transformed\jetified-RecyclerView-FastScroller-1e7a69ff71\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\a35addfa73c445825a15fd519096b693\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.6.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\01eb69f422e04eb888c0b3a0290142f6\transformed\jetified-lottie-3.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\40e0edd39d7c3e3f5c45e0f89ce2b87f\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.biometric:biometric-ktx:1.2.0-alpha03] C:\Users\saravanakumar\.gradle\caches\transforms-3\8ee66b4f907d300ed08724474262e1c3\transformed\jetified-biometric-ktx-1.2.0-alpha03\AndroidManifest.xml:2:1-9:12
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\aa334a5cf64fdc3240f521d1c34de532\transformed\jetified-patternlockview-1.0.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.tibbi.reprint:reprint_spass:2f49ba01bb] C:\Users\saravanakumar\.gradle\caches\transforms-3\3bb0676d6c1971fb9a5110fe7788c4a2\transformed\jetified-reprint_spass-2f49ba01bb\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\saravanakumar\.gradle\caches\transforms-3\c973ff356045f1e72697addba9aa5179\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\a41f65a1b182ec9e11a9bbe3d48996cb\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.3] C:\Users\saravanakumar\.gradle\caches\transforms-3\23572f080023811580a9ec1e4ea14a3f\transformed\jetified-rtl-viewpager-1.0.3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\9e87b3f3a8a8def82a49bc614b82301f\transformed\jetified-glide-4.10.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\6573456f1b21b143915dbfdebcbd2bc4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\c80b889a3047ecf71e0ef4e2506dcaba\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\3171d821ea5f4d6b46102493b8b47b98\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\saravanakumar\.gradle\caches\transforms-3\9d1df5c1869b774c5c22b9b570caf0e4\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\d02084a864f4e30a2f48c6b9eb01b52b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\94b3e8f4666ed8e1388191a5fc011b9e\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\b8b350c66e1bae521a6c8a10b95f5f20\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\ae153f83ce77cbb7db268a4b0cc0fdd6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\e0977116317d9a78ee8c487fa15d7b6b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f20e658da7692681c8bd44c3436e9874\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha06] C:\Users\saravanakumar\.gradle\caches\transforms-3\168ec6fc7e305b84acc156ed2d65a0d9\transformed\recyclerview-1.2.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\saravanakumar\.gradle\caches\transforms-3\ba4991d87bc44489b24732ceb6018d63\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\saravanakumar\.gradle\caches\transforms-3\8e47eee6ba114b0eb7d7e253cf31940a\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\3d9b666e8753ee91985d326ee432e540\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\3c78f5ed1630efcc3cd9dea3ded253bf\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f1a81a42c8ff15780a4adadf7c35e44d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f785a0b962ae08fc7afefe6b0fd39427\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\9825ca5498c366b52bd49e6ab2f1bf0d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\06758e689f0bced597b4e1b1801419a2\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\33bcf70687cc4cd78b1f06b612d827fd\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f15a14ae32d129d38f2e4dbfb4c3ab3e\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\c8995e00295f143768a28e95e891f2f4\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\87c7be2790850eea814cd66c813d96d7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\2713bfec98872afbbb34e9b7ab15daa4\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\3b2c9c620de09f2890ea53d7ec68fa11\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\8833a61958ada1483003b8864c572a5d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\a5b79d289e4ec454ef6e95b15136e13d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\b5f3c2155ad874157b3f7819fffcfab5\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\b02ee0dc154ea8fc0edf2ba3acf7bc41\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\a68c583d7d2888ce27364aa9ee7b4951\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\1feed067c3ccb2060a22de2b8fbdda64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\83a821c5ed854de3bf4d1e5fa7440a04\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\4501bb6c1b16d6c9ef0938c5a599105f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:1-442:12
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:1-442:12
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:1-442:12
+	package
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:1-442:12
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:1-442:12
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:5:5-35
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:8:22-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:12:5-14:31
+REJECTED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\saravanakumar\.gradle\caches\transforms-3\c973ff356045f1e72697addba9aa5179\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:27:5-74
+	tools:node
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:14:9-28
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:13:9-58
+uses-feature#android.hardware.faketouch
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:16:5-18:36
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:15:5-17:36
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:17:9-50
+uses-feature#android.hardware.screen.portrait
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:20:5-22:36
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:18:5-20:36
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:21:9-56
+application
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:24:5-441:19
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:31:5-54:19
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:31:5-54:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.6.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\01eb69f422e04eb888c0b3a0290142f6\transformed\jetified-lottie-3.6.1\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.6.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\01eb69f422e04eb888c0b3a0290142f6\transformed\jetified-lottie-3.6.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\9e87b3f3a8a8def82a49bc614b82301f\transformed\jetified-glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\9e87b3f3a8a8def82a49bc614b82301f\transformed\jetified-glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:30:9-52
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:27:9-31
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:31:18-44
+	android:label
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:29:9-50
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:31:9-48
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:32:9-40
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:25:9-28
+activity#com.simplemobiletools.musicplayer.activities.SplashActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:34:9-36:50
+	android:theme
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:36:13-47
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:35:13-54
+activity#com.simplemobiletools.musicplayer.activities.MainActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:38:9-48:20
+	android:launchMode
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:39:13-52
+meta-data#android.app.default_searchable
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:41:13-43:54
+	android:resource
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:43:17-51
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:42:17-62
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:45:13-47:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:46:17-71
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:46:25-68
+activity#com.simplemobiletools.musicplayer.activities.WidgetConfigureActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:50:9-57:20
+	android:screenOrientation
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:52:13-49
+	android:theme
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:53:13-55
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:51:13-63
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:54:13-56:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:55:17-87
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:55:25-84
+activity#com.simplemobiletools.commons.activities.AboutActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:59:9-62:69
+	android:parentActivityName
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:62:13-66
+	android:label
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:61:13-42
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:60:13-82
+activity#com.simplemobiletools.commons.activities.CustomizationActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:64:9-67:73
+	android:parentActivityName
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:67:13-70
+	android:label
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:66:13-53
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:65:13-90
+activity#com.simplemobiletools.musicplayer.activities.SettingsActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:69:9-72:69
+	android:parentActivityName
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:72:13-66
+	android:label
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:71:13-45
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:70:13-56
+activity#com.simplemobiletools.musicplayer.activities.EqualizerActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:74:9-77:69
+	android:parentActivityName
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:77:13-66
+	android:label
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:76:13-46
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:75:13-57
+activity#com.simplemobiletools.musicplayer.activities.AlbumsActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:79:9-82:69
+	android:parentActivityName
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:82:13-66
+	android:label
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:81:13-43
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:80:13-54
+activity#com.simplemobiletools.musicplayer.activities.TracksActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:84:9-87:71
+	android:parentActivityName
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:87:13-68
+	android:label
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:86:13-43
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:85:13-54
+activity#com.simplemobiletools.musicplayer.activities.TrackActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:89:9-116:20
+	android:parentActivityName
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:91:13-66
+	android:theme
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:92:13-52
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:90:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:content
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:94:13-103:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:95:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:96:17-76
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:96:27-73
+data
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+	android:scheme
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:23-47
+	android:mimeType
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:99:23-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:file
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:105:13-114:29
+activity#com.simplemobiletools.musicplayer.activities.QueueActivity
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:118:9-121:70
+	android:parentActivityName
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:121:13-67
+	android:label
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:120:13-48
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:119:13-53
+service#com.simplemobiletools.musicplayer.services.MusicService
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:123:9-146:19
+	android:exported
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:125:13-37
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:124:13-50
+intent-filter#action:name:com.simplemobiletools.musicplayer.action.BROADCAST_STATUS+action:name:com.simplemobiletools.musicplayer.action.EDIT+action:name:com.simplemobiletools.musicplayer.action.FINISH+action:name:com.simplemobiletools.musicplayer.action.FINISH_IF_NOT_PLAYING+action:name:com.simplemobiletools.musicplayer.action.INIT+action:name:com.simplemobiletools.musicplayer.action.INIT_PATH+action:name:com.simplemobiletools.musicplayer.action.INIT_QUEUE+action:name:com.simplemobiletools.musicplayer.action.NEXT+action:name:com.simplemobiletools.musicplayer.action.PAUSE+action:name:com.simplemobiletools.musicplayer.action.PLAYPAUSE+action:name:com.simplemobiletools.musicplayer.action.PLAY_TRACK+action:name:com.simplemobiletools.musicplayer.action.PREVIOUS+action:name:com.simplemobiletools.musicplayer.action.REFRESH_LIST+action:name:com.simplemobiletools.musicplayer.action.SET_PLAYBACK_SPEED+action:name:com.simplemobiletools.musicplayer.action.SET_PROGRESS+action:name:com.simplemobiletools.musicplayer.action.SKIP_BACKWARD+action:name:com.simplemobiletools.musicplayer.action.SKIP_FORWARD+action:name:com.simplemobiletools.musicplayer.action.UPDATE_NEXT_TRACK
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:126:13-145:29
+action#com.simplemobiletools.musicplayer.action.INIT
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:127:17-88
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:127:25-85
+action#com.simplemobiletools.musicplayer.action.INIT_PATH
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:128:17-93
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:128:25-90
+action#com.simplemobiletools.musicplayer.action.INIT_QUEUE
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:129:17-94
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:129:25-91
+action#com.simplemobiletools.musicplayer.action.FINISH
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:130:17-90
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:130:25-87
+action#com.simplemobiletools.musicplayer.action.FINISH_IF_NOT_PLAYING
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:131:17-105
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:131:25-102
+action#com.simplemobiletools.musicplayer.action.PREVIOUS
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:132:17-92
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:132:25-89
+action#com.simplemobiletools.musicplayer.action.PAUSE
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:133:17-89
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:133:25-86
+action#com.simplemobiletools.musicplayer.action.PLAYPAUSE
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:134:17-93
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:134:25-90
+action#com.simplemobiletools.musicplayer.action.NEXT
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:135:17-88
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:135:25-85
+action#com.simplemobiletools.musicplayer.action.EDIT
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:136:17-88
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:136:25-85
+action#com.simplemobiletools.musicplayer.action.PLAY_TRACK
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:137:17-94
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:137:25-91
+action#com.simplemobiletools.musicplayer.action.REFRESH_LIST
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:138:17-96
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:138:25-93
+action#com.simplemobiletools.musicplayer.action.UPDATE_NEXT_TRACK
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:139:17-101
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:139:25-98
+action#com.simplemobiletools.musicplayer.action.SET_PROGRESS
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:140:17-96
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:140:25-93
+action#com.simplemobiletools.musicplayer.action.SKIP_BACKWARD
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:141:17-97
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:141:25-94
+action#com.simplemobiletools.musicplayer.action.SKIP_FORWARD
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:142:17-96
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:142:25-93
+action#com.simplemobiletools.musicplayer.action.SET_PLAYBACK_SPEED
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:143:17-102
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:143:25-99
+action#com.simplemobiletools.musicplayer.action.BROADCAST_STATUS
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:144:17-100
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:144:25-97
+receiver#com.simplemobiletools.musicplayer.helpers.MyWidgetProvider
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:148:9-157:20
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:150:13-56
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:149:13-53
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:151:13-153:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:152:17-84
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:152:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:154:13-156:55
+	android:resource
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:156:17-52
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:155:17-58
+receiver#com.simplemobiletools.musicplayer.receivers.RemoteControlReceiver
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:159:9-167:20
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:161:13-35
+	android:exported
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:162:13-36
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:160:13-60
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:163:13-166:29
+	android:priority
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:163:28-50
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:164:17-77
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:164:25-74
+receiver#com.simplemobiletools.musicplayer.receivers.HeadsetPlugReceiver
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:169:9-173:20
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:169:19-64
+intent-filter#action:name:android.intent.action.ACTION_HEADSET_PLUG
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:170:13-172:29
+action#android.intent.action.ACTION_HEADSET_PLUG
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:171:17-84
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:171:25-81
+receiver#com.simplemobiletools.musicplayer.receivers.ControlActionsListener
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:175:9-70
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:175:19-67
+receiver#com.simplemobiletools.musicplayer.receivers.NotificationDismissedReceiver
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:177:9-184:20
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:179:13-35
+	android:exported
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:180:13-36
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:178:13-68
+intent-filter#action:name:com.simplemobiletools.musicplayer.action.NOTIFICATION_DISMISSED
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:181:13-183:29
+action#com.simplemobiletools.musicplayer.action.NOTIFICATION_DISMISSED
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:182:17-106
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:182:25-103
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Red
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:196:9-207:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:198:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:201:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:200:13-56
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:199:13-51
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:197:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Pink
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:209:9-220:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:211:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:214:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:213:13-57
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:212:13-52
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:210:13-59
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Purple
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:222:9-233:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:224:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:227:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:226:13-59
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:225:13-54
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:223:13-61
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Deep_purple
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:235:9-246:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:237:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:240:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:239:13-64
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:238:13-59
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:236:13-66
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Indigo
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:248:9-259:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:250:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:253:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:252:13-59
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:251:13-54
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:249:13-61
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Blue
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:261:9-272:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:263:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:266:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:265:13-57
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:264:13-52
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:262:13-59
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Light_blue
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:274:9-285:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:276:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:279:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:278:13-63
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:277:13-58
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:275:13-65
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Cyan
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:287:9-298:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:289:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:292:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:291:13-57
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:290:13-52
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:288:13-59
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Teal
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:300:9-311:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:302:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:305:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:304:13-57
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:303:13-52
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:301:13-59
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Green
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:313:9-324:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:315:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:318:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:317:13-58
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:316:13-53
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:314:13-60
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Light_green
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:326:9-337:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:328:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:331:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:330:13-64
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:329:13-59
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:327:13-66
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Lime
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:339:9-350:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:341:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:344:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:343:13-57
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:342:13-52
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:340:13-59
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Yellow
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:352:9-363:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:354:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:357:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:356:13-59
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:355:13-54
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:353:13-61
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Amber
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:365:9-376:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:367:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:370:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:369:13-58
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:368:13-53
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:366:13-60
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Orange
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:378:9-388:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:380:13-35
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:383:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:382:13-52
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:381:13-47
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:379:13-61
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Deep_orange
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:390:9-401:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:392:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:395:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:394:13-64
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:393:13-59
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:391:13-66
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Brown
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:403:9-414:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:405:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:408:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:407:13-58
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:406:13-53
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:404:13-60
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Blue_grey
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:416:9-427:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:418:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:421:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:420:13-62
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:419:13-57
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:417:13-64
+activity-alias#com.simplemobiletools.musicplayer.activities.SplashActivity.Grey_black
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:429:9-440:26
+	android:enabled
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:431:13-36
+	android:targetActivity
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:434:13-64
+	android:roundIcon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:433:13-63
+	android:icon
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:432:13-58
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:430:13-65
+uses-sdk
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.tibbi:RecyclerView-FastScroller:1e7a69ff71] C:\Users\saravanakumar\.gradle\caches\transforms-3\f1a2a72072fd9a81bcb953c16c9027b0\transformed\jetified-RecyclerView-FastScroller-1e7a69ff71\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tibbi:RecyclerView-FastScroller:1e7a69ff71] C:\Users\saravanakumar\.gradle\caches\transforms-3\f1a2a72072fd9a81bcb953c16c9027b0\transformed\jetified-RecyclerView-FastScroller-1e7a69ff71\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\a35addfa73c445825a15fd519096b693\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\a35addfa73c445825a15fd519096b693\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.6.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\01eb69f422e04eb888c0b3a0290142f6\transformed\jetified-lottie-3.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.6.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\01eb69f422e04eb888c0b3a0290142f6\transformed\jetified-lottie-3.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\40e0edd39d7c3e3f5c45e0f89ce2b87f\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\40e0edd39d7c3e3f5c45e0f89ce2b87f\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.biometric:biometric-ktx:1.2.0-alpha03] C:\Users\saravanakumar\.gradle\caches\transforms-3\8ee66b4f907d300ed08724474262e1c3\transformed\jetified-biometric-ktx-1.2.0-alpha03\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.biometric:biometric-ktx:1.2.0-alpha03] C:\Users\saravanakumar\.gradle\caches\transforms-3\8ee66b4f907d300ed08724474262e1c3\transformed\jetified-biometric-ktx-1.2.0-alpha03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\aa334a5cf64fdc3240f521d1c34de532\transformed\jetified-patternlockview-1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\aa334a5cf64fdc3240f521d1c34de532\transformed\jetified-patternlockview-1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.tibbi.reprint:reprint_spass:2f49ba01bb] C:\Users\saravanakumar\.gradle\caches\transforms-3\3bb0676d6c1971fb9a5110fe7788c4a2\transformed\jetified-reprint_spass-2f49ba01bb\AndroidManifest.xml:7:5-44
+MERGED from [com.github.tibbi.reprint:reprint_spass:2f49ba01bb] C:\Users\saravanakumar\.gradle\caches\transforms-3\3bb0676d6c1971fb9a5110fe7788c4a2\transformed\jetified-reprint_spass-2f49ba01bb\AndroidManifest.xml:7:5-44
+MERGED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\saravanakumar\.gradle\caches\transforms-3\c973ff356045f1e72697addba9aa5179\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\saravanakumar\.gradle\caches\transforms-3\c973ff356045f1e72697addba9aa5179\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\a41f65a1b182ec9e11a9bbe3d48996cb\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\a41f65a1b182ec9e11a9bbe3d48996cb\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.3] C:\Users\saravanakumar\.gradle\caches\transforms-3\23572f080023811580a9ec1e4ea14a3f\transformed\jetified-rtl-viewpager-1.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.3] C:\Users\saravanakumar\.gradle\caches\transforms-3\23572f080023811580a9ec1e4ea14a3f\transformed\jetified-rtl-viewpager-1.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\9e87b3f3a8a8def82a49bc614b82301f\transformed\jetified-glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\9e87b3f3a8a8def82a49bc614b82301f\transformed\jetified-glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\6573456f1b21b143915dbfdebcbd2bc4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\6573456f1b21b143915dbfdebcbd2bc4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\c80b889a3047ecf71e0ef4e2506dcaba\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\c80b889a3047ecf71e0ef4e2506dcaba\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\3171d821ea5f4d6b46102493b8b47b98\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\3171d821ea5f4d6b46102493b8b47b98\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\saravanakumar\.gradle\caches\transforms-3\9d1df5c1869b774c5c22b9b570caf0e4\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\saravanakumar\.gradle\caches\transforms-3\9d1df5c1869b774c5c22b9b570caf0e4\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\d02084a864f4e30a2f48c6b9eb01b52b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\d02084a864f4e30a2f48c6b9eb01b52b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\94b3e8f4666ed8e1388191a5fc011b9e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\94b3e8f4666ed8e1388191a5fc011b9e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\b8b350c66e1bae521a6c8a10b95f5f20\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\b8b350c66e1bae521a6c8a10b95f5f20\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\ae153f83ce77cbb7db268a4b0cc0fdd6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\ae153f83ce77cbb7db268a4b0cc0fdd6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\e0977116317d9a78ee8c487fa15d7b6b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\e0977116317d9a78ee8c487fa15d7b6b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f20e658da7692681c8bd44c3436e9874\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f20e658da7692681c8bd44c3436e9874\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha06] C:\Users\saravanakumar\.gradle\caches\transforms-3\168ec6fc7e305b84acc156ed2d65a0d9\transformed\recyclerview-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha06] C:\Users\saravanakumar\.gradle\caches\transforms-3\168ec6fc7e305b84acc156ed2d65a0d9\transformed\recyclerview-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\saravanakumar\.gradle\caches\transforms-3\ba4991d87bc44489b24732ceb6018d63\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\saravanakumar\.gradle\caches\transforms-3\ba4991d87bc44489b24732ceb6018d63\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\saravanakumar\.gradle\caches\transforms-3\8e47eee6ba114b0eb7d7e253cf31940a\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\saravanakumar\.gradle\caches\transforms-3\8e47eee6ba114b0eb7d7e253cf31940a\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\3d9b666e8753ee91985d326ee432e540\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\3d9b666e8753ee91985d326ee432e540\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\3c78f5ed1630efcc3cd9dea3ded253bf\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\3c78f5ed1630efcc3cd9dea3ded253bf\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f1a81a42c8ff15780a4adadf7c35e44d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f1a81a42c8ff15780a4adadf7c35e44d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f785a0b962ae08fc7afefe6b0fd39427\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f785a0b962ae08fc7afefe6b0fd39427\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\9825ca5498c366b52bd49e6ab2f1bf0d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\9825ca5498c366b52bd49e6ab2f1bf0d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\06758e689f0bced597b4e1b1801419a2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\06758e689f0bced597b4e1b1801419a2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\33bcf70687cc4cd78b1f06b612d827fd\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\33bcf70687cc4cd78b1f06b612d827fd\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f15a14ae32d129d38f2e4dbfb4c3ab3e\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\f15a14ae32d129d38f2e4dbfb4c3ab3e\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\c8995e00295f143768a28e95e891f2f4\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\c8995e00295f143768a28e95e891f2f4\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\87c7be2790850eea814cd66c813d96d7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\87c7be2790850eea814cd66c813d96d7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\2713bfec98872afbbb34e9b7ab15daa4\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\2713bfec98872afbbb34e9b7ab15daa4\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\3b2c9c620de09f2890ea53d7ec68fa11\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\3b2c9c620de09f2890ea53d7ec68fa11\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\8833a61958ada1483003b8864c572a5d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\8833a61958ada1483003b8864c572a5d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\a5b79d289e4ec454ef6e95b15136e13d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\a5b79d289e4ec454ef6e95b15136e13d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\b5f3c2155ad874157b3f7819fffcfab5\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\saravanakumar\.gradle\caches\transforms-3\b5f3c2155ad874157b3f7819fffcfab5\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\b02ee0dc154ea8fc0edf2ba3acf7bc41\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\b02ee0dc154ea8fc0edf2ba3acf7bc41\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\a68c583d7d2888ce27364aa9ee7b4951\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\a68c583d7d2888ce27364aa9ee7b4951\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\1feed067c3ccb2060a22de2b8fbdda64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\1feed067c3ccb2060a22de2b8fbdda64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\83a821c5ed854de3bf4d1e5fa7440a04\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\83a821c5ed854de3bf4d1e5fa7440a04\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\4501bb6c1b16d6c9ef0938c5a599105f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\4501bb6c1b16d6c9ef0938c5a599105f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:191:13-193:58
+	android:resource
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:193:17-55
+	android:name
+		ADDED from C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:192:17-67
+queries
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:10:5-13:15
+MERGED from [androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:24:5-28:15
+MERGED from [androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:24:5-28:15
+package#com.simplemobiletools.thankyou.debug
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:11:9-72
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:11:18-69
+package#com.simplemobiletools.thankyou
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:12:9-66
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:12:18-63
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:22:5-24:31
+REJECTED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\saravanakumar\.gradle\caches\transforms-3\c973ff356045f1e72697addba9aa5179\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:24:5-72
+	tools:node
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:24:9-28
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:23:9-56
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:27:5-29:31
+REJECTED from [com.github.tibbi.reprint:reprint_spass:2f49ba01bb] C:\Users\saravanakumar\.gradle\caches\transforms-3\3bb0676d6c1971fb9a5110fe7788c4a2\transformed\jetified-reprint_spass-2f49ba01bb\AndroidManifest.xml:9:5-117
+	tools:node
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:29:9-28
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:28:9-101
+activity#com.simplemobiletools.commons.activities.ContributorsActivity
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:32:9-35:99
+	android:parentActivityName
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:35:13-96
+	android:label
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:33:13-89
+activity#com.simplemobiletools.commons.activities.FAQActivity
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:36:9-39:99
+	android:parentActivityName
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:39:13-96
+	android:label
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:38:13-63
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:37:13-80
+activity#com.simplemobiletools.commons.activities.LicenseActivity
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:40:9-43:99
+	android:parentActivityName
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:43:13-96
+	android:label
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:42:13-57
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:41:13-84
+receiver#com.simplemobiletools.commons.receivers.SharedThemeReceiver
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:45:9-53:20
+	android:enabled
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:47:13-35
+	android:exported
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:46:13-87
+intent-filter#action:name:com.simplemobiletools.commons.SHARED_THEME_ACTIVATED+action:name:com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:49:13-52:29
+action#com.simplemobiletools.commons.SHARED_THEME_ACTIVATED
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:50:25-92
+action#com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:51:17-93
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:51:25-90
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:25:9-27:18
+action#android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from [androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:26:21-76
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74

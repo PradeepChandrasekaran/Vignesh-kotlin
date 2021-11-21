@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tibbi:RecyclerView-FastScroller:1e7a69ff71@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f1a2a72072fd9a81bcb953c16c9027b0/transformed/jetified-RecyclerView-FastScroller-1e7a69ff71/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f1a2a72072fd9a81bcb953c16c9027b0/transformed/jetified-RecyclerView-FastScroller-1e7a69ff71/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f1a2a72072fd9a81bcb953c16c9027b0/transformed/jetified-RecyclerView-FastScroller-1e7a69ff71/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tibbi/RecyclerView-FastScroller/1e7a69ff71/dbff90e7b49db67c7c673c0aed92402432c3c458/RecyclerView-FastScroller-1e7a69ff71-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

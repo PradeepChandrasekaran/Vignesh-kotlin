@@ -1,0 +1,706 @@
+[
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_headset_small.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_headset_small.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_teal.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_teal.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_headset_padded.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-hdpi\\ic_headset_padded.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_amber.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_amber.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_blue.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_custom_sleep_timer_picker.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\dialog_custom_sleep_timer_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_deep_purple.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_deep_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_deep_purple.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_deep_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_light_green.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_light_green.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_albums.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\fragment_albums.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_img_widget_preview.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xxxhdpi\\img_widget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_deep_orange.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_deep_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_teal.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_teal.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_deep_purple.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_deep_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_blue_grey.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_blue_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_headset_padded.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xhdpi\\ic_headset_padded.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_red.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_red.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_red.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_small_radio_button.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\small_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_headset_small.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xhdpi\\ic_headset_small.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_headset.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-mdpi\\ic_headset.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_select_playlist_item.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\select_playlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_purple.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_purple.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_pink.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_view_current_track_bar.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\view_current_track_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_cab.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\cab.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_img_widget_preview.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xhdpi\\img_widget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_grey_black.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_grey_black.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_amber.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_amber.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_pink.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_widget.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_cab_albums_tracks.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\cab_albums_tracks.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_purple.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_grey_black.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_grey_black.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_headset_small.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_headset_small.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_playback_speed_slow_vector.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable\\ic_playback_speed_slow_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_lime.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_lime.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\raw_playpause.json.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\raw\\playpause.json"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_queue.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\activity_queue.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_teal.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_teal.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_green.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_green.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_teal.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_blue_grey.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_blue_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_track.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_grey_black.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_grey_black.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_brown.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_brown.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_purple.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_lime.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_lime.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_indigo.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_indigo.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_lime.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_lime.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_album.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_img_widget_preview.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-hdpi\\img_widget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_yellow.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_headset.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_headset.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_blue_grey.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_blue_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_playback_speed.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\fragment_playback_speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_deep_orange.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_deep_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_green.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_green.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_light_blue.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_light_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_deep_orange.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_deep_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_cab_tracks.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\cab_tracks.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_lime.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_lime.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_headset_small.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-hdpi\\ic_headset_small.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_light_green.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_light_green.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_playlist.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_light_blue.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_light_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_headset_padded.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_headset_padded.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_light_blue.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_light_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\xml_searchable.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_yellow.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_tracks.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\fragment_tracks.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_select_playlist.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\dialog_select_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_indigo.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_indigo.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_red.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_red.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_headset_padded.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_headset_padded.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_brown.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_brown.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_brown.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_brown.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_amber.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_amber.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_red.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_red.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_navigation.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_headset.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xhdpi\\ic_headset.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_indigo.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_indigo.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_cab_albums.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\cab_albums.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_cyan.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_cyan.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_pink.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_equalizer_band.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\equalizer_band.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_light_green.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_light_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_teal.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_teal.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_change_sorting.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\dialog_change_sorting.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_brown.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_brown.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_track_queue.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_track_queue.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_remove_playlist.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\dialog_remove_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_track.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\menu_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_light_green.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_light_green.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_playback_speed_vector.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable\\ic_playback_speed_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_indigo.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_indigo.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_red.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_red.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_light_green.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_light_green.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_brown.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_brown.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_pink.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_deep_purple.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_deep_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_cyan.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_cyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_amber.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_amber.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_indigo.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_indigo.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_queue.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\menu_queue.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_cab_playlists.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\cab_playlists.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_playlist.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\menu_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_widget_controls.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\widget_controls.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_shuffle_vector.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable\\ic_shuffle_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_green.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_green.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_yellow.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_widget_config.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\widget_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_headset.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_headset.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_repeat_playlist_vector.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable\\ic_repeat_playlist_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_cab_tracks_header.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\cab_tracks_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_lime.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_lime.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_light_blue.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_light_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_rename_song.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\dialog_rename_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_cab_queue.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\cab_queue.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_grey_black.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_grey_black.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_cyan.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_cyan.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_section.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_cyan.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_cyan.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_music_note_vector.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable\\ic_music_note_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_deep_purple.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_deep_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_blue_grey.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_blue_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_artist.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_artist.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_play_one_song_vector.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable\\ic_play_one_song_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_deep_orange.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_deep_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_track.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\activity_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_purple.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_artists.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\fragment_artists.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_blue.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_blue_grey.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_blue_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_img_widget_preview.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-xxhdpi\\img_widget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_pink.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_widget_locked.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\dialog_widget_locked.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_yellow.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_deep_orange.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_deep_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_cyan.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_cyan.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_old_song.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_old_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_small_widget.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\small_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_amber.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_amber.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_cab_artists.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\menu\\cab_artists.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_yellow.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tracks.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\activity_tracks.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_headset.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable-hdpi\\ic_headset.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\xml_widget_info.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_playlists.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\fragment_playlists.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_green.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_green.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_blue.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_blue.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_blue.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_album_header.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_album_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_new_playlist.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\dialog_new_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_repeat_one_song_vector.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\drawable\\ic_repeat_one_song_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_green.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_albums.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\activity_albums.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_grey_black.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_grey_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_transparent.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\item_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_light_blue.png.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_light_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_equalizer.xml.flat",
+        "source": "C:\\Users\\saravanakumar\\AndroidStudioProjects\\Vignesh-kotlin\\app\\src\\main\\res\\layout\\activity_equalizer.xml"
+    }
+]

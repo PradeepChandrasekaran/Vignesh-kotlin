@@ -1,0 +1,34 @@
+com/simplemobiletools/musicplayer/interfaces/SongsDao_Impl.java
+ com.simplemobiletools.musicplayer.interfaces.SongsDao_Impl
+ com.simplemobiletools.musicplayer.interfaces.SongsDao_Impl$1
+ com.simplemobiletools.musicplayer.interfaces.SongsDao_Impl$2
+ com.simplemobiletools.musicplayer.interfaces.SongsDao_Impl$3
+ com.simplemobiletools.musicplayer.interfaces.SongsDao_Impl$4
+ com.simplemobiletools.musicplayer.interfaces.SongsDao_Impl$5
+ com.simplemobiletools.musicplayer.interfaces.SongsDao_Impl$6
+com/simplemobiletools/musicplayer/interfaces/ArtistsDao_Impl.java
+ com.simplemobiletools.musicplayer.interfaces.ArtistsDao_Impl
+ com.simplemobiletools.musicplayer.interfaces.ArtistsDao_Impl$1
+ com.simplemobiletools.musicplayer.interfaces.ArtistsDao_Impl$2
+com/simplemobiletools/musicplayer/interfaces/QueueItemsDao_Impl.java
+ com.simplemobiletools.musicplayer.interfaces.QueueItemsDao_Impl
+ com.simplemobiletools.musicplayer.interfaces.QueueItemsDao_Impl$1
+ com.simplemobiletools.musicplayer.interfaces.QueueItemsDao_Impl$2
+ com.simplemobiletools.musicplayer.interfaces.QueueItemsDao_Impl$3
+ com.simplemobiletools.musicplayer.interfaces.QueueItemsDao_Impl$4
+ com.simplemobiletools.musicplayer.interfaces.QueueItemsDao_Impl$5
+ com.simplemobiletools.musicplayer.interfaces.QueueItemsDao_Impl$6
+com/simplemobiletools/musicplayer/interfaces/AlbumsDao_Impl.java
+ com.simplemobiletools.musicplayer.interfaces.AlbumsDao_Impl
+ com.simplemobiletools.musicplayer.interfaces.AlbumsDao_Impl$1
+ com.simplemobiletools.musicplayer.interfaces.AlbumsDao_Impl$2
+com/simplemobiletools/musicplayer/interfaces/PlaylistsDao_Impl.java
+ com.simplemobiletools.musicplayer.interfaces.PlaylistsDao_Impl
+ com.simplemobiletools.musicplayer.interfaces.PlaylistsDao_Impl$1
+ com.simplemobiletools.musicplayer.interfaces.PlaylistsDao_Impl$2
+ com.simplemobiletools.musicplayer.interfaces.PlaylistsDao_Impl$3
+com/simplemobiletools/musicplayer/databases/SongsDatabase_Impl.java
+ com.simplemobiletools.musicplayer.databases.SongsDatabase_Impl
+ com.simplemobiletools.musicplayer.databases.SongsDatabase_Impl$1
+com/simplemobiletools/musicplayer/BuildConfig.java
+ com.simplemobiletools.musicplayer.BuildConfig

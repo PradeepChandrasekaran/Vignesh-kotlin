@@ -1,0 +1,884 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.simplemobiletools.musicplayer.debug"
+4    android:installLocation="auto"
+5    android:versionCode="90"
+6    android:versionName="5.8.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:7:5-68
+12-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:7:22-65
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:8:5-77
+13-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:8:22-74
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+15-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:10:5-80
+15-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:10:22-77
+16
+17    <uses-feature
+17-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:16:5-18:36
+18        android:name="android.hardware.faketouch"
+18-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:17:9-50
+19        android:required="false" />
+19-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:18:9-33
+20    <uses-feature
+20-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:20:5-22:36
+21        android:name="android.hardware.screen.portrait"
+21-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:21:9-56
+22        android:required="false" />
+22-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:22:9-33
+23
+24    <queries>
+24-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:10:5-13:15
+25        <package android:name="com.simplemobiletools.thankyou.debug" />
+25-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:11:9-72
+25-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:11:18-69
+26        <package android:name="com.simplemobiletools.thankyou" />
+26-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:12:9-66
+26-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:12:18-63
+27
+28        <intent>
+28-->[androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:25:9-27:18
+29            <action android:name="android.media.browse.MediaBrowserService" />
+29-->[androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:26:13-79
+29-->[androidx.media:media:1.4.2] C:\Users\saravanakumar\.gradle\caches\transforms-3\47091fc828e7cec51b3f025954dee2b5\transformed\media-1.4.2\AndroidManifest.xml:26:21-76
+30        </intent>
+31    </queries>
+32
+33    <application
+33-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:24:5-441:19
+34        android:name="com.simplemobiletools.musicplayer.App"
+34-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:25:9-28
+35        android:allowBackup="true"
+35-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:26:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.6.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+37        android:debuggable="true"
+38        android:enabled="true"
+38-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:27:9-31
+39        android:icon="@mipmap/ic_launcher"
+39-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:28:9-43
+40        android:label="@string/app_launcher_name"
+40-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:29:9-50
+41        android:requestLegacyExternalStorage="true"
+41-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:30:9-52
+42        android:roundIcon="@mipmap/ic_launcher"
+42-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:31:9-48
+43        android:supportsRtl="true"
+43-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:31:18-44
+44        android:testOnly="true"
+45        android:theme="@style/AppTheme" >
+45-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:32:9-40
+46        <activity
+46-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:34:9-36:50
+47            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity"
+47-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:35:13-54
+48            android:theme="@style/SplashTheme" />
+48-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:36:13-47
+49
+50        <activity-alias
+50-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:429:9-440:26
+51            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Grey_black"
+51-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:430:13-65
+52            android:enabled="false"
+52-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:431:13-36
+53            android:icon="@mipmap/ic_launcher_grey_black"
+53-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:432:13-58
+54            android:roundIcon="@mipmap/ic_launcher_grey_black"
+54-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:433:13-63
+55            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+55-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:434:13-64
+56            <intent-filter>
+56-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+57-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+59-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+60            </intent-filter>
+61        </activity-alias>
+62        <activity-alias
+62-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:416:9-427:26
+63            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Blue_grey"
+63-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:417:13-64
+64            android:enabled="false"
+64-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:418:13-36
+65            android:icon="@mipmap/ic_launcher_blue_grey"
+65-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:419:13-57
+66            android:roundIcon="@mipmap/ic_launcher_blue_grey"
+66-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:420:13-62
+67            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+67-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:421:13-64
+68            <intent-filter>
+68-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+69                <action android:name="android.intent.action.MAIN" />
+69-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+69-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+70
+71                <category android:name="android.intent.category.LAUNCHER" />
+71-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+71-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+72            </intent-filter>
+73        </activity-alias>
+74        <activity-alias
+74-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:403:9-414:26
+75            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Brown"
+75-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:404:13-60
+76            android:enabled="false"
+76-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:405:13-36
+77            android:icon="@mipmap/ic_launcher_brown"
+77-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:406:13-53
+78            android:roundIcon="@mipmap/ic_launcher_brown"
+78-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:407:13-58
+79            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+79-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:408:13-64
+80            <intent-filter>
+80-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+81                <action android:name="android.intent.action.MAIN" />
+81-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+81-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+82
+83                <category android:name="android.intent.category.LAUNCHER" />
+83-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+83-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+84            </intent-filter>
+85        </activity-alias>
+86        <activity-alias
+86-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:390:9-401:26
+87            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Deep_orange"
+87-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:391:13-66
+88            android:enabled="false"
+88-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:392:13-36
+89            android:icon="@mipmap/ic_launcher_deep_orange"
+89-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:393:13-59
+90            android:roundIcon="@mipmap/ic_launcher_deep_orange"
+90-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:394:13-64
+91            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+91-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:395:13-64
+92            <intent-filter>
+92-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+93                <action android:name="android.intent.action.MAIN" />
+93-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+93-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+94
+95                <category android:name="android.intent.category.LAUNCHER" />
+95-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+95-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+96            </intent-filter>
+97        </activity-alias>
+98        <activity-alias
+98-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:378:9-388:26
+99            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Orange"
+99-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:379:13-61
+100            android:enabled="true"
+100-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:380:13-35
+101            android:icon="@mipmap/ic_launcher"
+101-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:381:13-47
+102            android:roundIcon="@mipmap/ic_launcher"
+102-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:382:13-52
+103            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+103-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:383:13-64
+104            <intent-filter>
+104-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+105                <action android:name="android.intent.action.MAIN" />
+105-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+105-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+106
+107                <category android:name="android.intent.category.LAUNCHER" />
+107-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+107-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+108            </intent-filter>
+109        </activity-alias>
+110        <activity-alias
+110-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:365:9-376:26
+111            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Amber"
+111-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:366:13-60
+112            android:enabled="false"
+112-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:367:13-36
+113            android:icon="@mipmap/ic_launcher_amber"
+113-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:368:13-53
+114            android:roundIcon="@mipmap/ic_launcher_amber"
+114-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:369:13-58
+115            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+115-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:370:13-64
+116            <intent-filter>
+116-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+117                <action android:name="android.intent.action.MAIN" />
+117-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+117-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+118
+119                <category android:name="android.intent.category.LAUNCHER" />
+119-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+119-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+120            </intent-filter>
+121        </activity-alias>
+122        <activity-alias
+122-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:352:9-363:26
+123            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Yellow"
+123-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:353:13-61
+124            android:enabled="false"
+124-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:354:13-36
+125            android:icon="@mipmap/ic_launcher_yellow"
+125-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:355:13-54
+126            android:roundIcon="@mipmap/ic_launcher_yellow"
+126-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:356:13-59
+127            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+127-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:357:13-64
+128            <intent-filter>
+128-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+129                <action android:name="android.intent.action.MAIN" />
+129-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+129-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+130
+131                <category android:name="android.intent.category.LAUNCHER" />
+131-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+131-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+132            </intent-filter>
+133        </activity-alias>
+134        <activity-alias
+134-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:339:9-350:26
+135            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Lime"
+135-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:340:13-59
+136            android:enabled="false"
+136-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:341:13-36
+137            android:icon="@mipmap/ic_launcher_lime"
+137-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:342:13-52
+138            android:roundIcon="@mipmap/ic_launcher_lime"
+138-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:343:13-57
+139            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+139-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:344:13-64
+140            <intent-filter>
+140-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+141                <action android:name="android.intent.action.MAIN" />
+141-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+141-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+142
+143                <category android:name="android.intent.category.LAUNCHER" />
+143-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+143-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+144            </intent-filter>
+145        </activity-alias>
+146        <activity-alias
+146-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:326:9-337:26
+147            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Light_green"
+147-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:327:13-66
+148            android:enabled="false"
+148-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:328:13-36
+149            android:icon="@mipmap/ic_launcher_light_green"
+149-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:329:13-59
+150            android:roundIcon="@mipmap/ic_launcher_light_green"
+150-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:330:13-64
+151            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+151-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:331:13-64
+152            <intent-filter>
+152-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+153                <action android:name="android.intent.action.MAIN" />
+153-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+153-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+154
+155                <category android:name="android.intent.category.LAUNCHER" />
+155-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+155-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+156            </intent-filter>
+157        </activity-alias>
+158        <activity-alias
+158-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:313:9-324:26
+159            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Green"
+159-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:314:13-60
+160            android:enabled="false"
+160-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:315:13-36
+161            android:icon="@mipmap/ic_launcher_green"
+161-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:316:13-53
+162            android:roundIcon="@mipmap/ic_launcher_green"
+162-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:317:13-58
+163            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+163-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:318:13-64
+164            <intent-filter>
+164-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+165                <action android:name="android.intent.action.MAIN" />
+165-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+165-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+166
+167                <category android:name="android.intent.category.LAUNCHER" />
+167-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+167-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+168            </intent-filter>
+169        </activity-alias>
+170        <activity-alias
+170-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:300:9-311:26
+171            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Teal"
+171-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:301:13-59
+172            android:enabled="false"
+172-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:302:13-36
+173            android:icon="@mipmap/ic_launcher_teal"
+173-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:303:13-52
+174            android:roundIcon="@mipmap/ic_launcher_teal"
+174-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:304:13-57
+175            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+175-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:305:13-64
+176            <intent-filter>
+176-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+177                <action android:name="android.intent.action.MAIN" />
+177-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+177-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+178
+179                <category android:name="android.intent.category.LAUNCHER" />
+179-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+179-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+180            </intent-filter>
+181        </activity-alias>
+182        <activity-alias
+182-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:287:9-298:26
+183            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Cyan"
+183-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:288:13-59
+184            android:enabled="false"
+184-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:289:13-36
+185            android:icon="@mipmap/ic_launcher_cyan"
+185-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:290:13-52
+186            android:roundIcon="@mipmap/ic_launcher_cyan"
+186-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:291:13-57
+187            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+187-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:292:13-64
+188            <intent-filter>
+188-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+189                <action android:name="android.intent.action.MAIN" />
+189-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+189-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+190
+191                <category android:name="android.intent.category.LAUNCHER" />
+191-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+191-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+192            </intent-filter>
+193        </activity-alias>
+194        <activity-alias
+194-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:274:9-285:26
+195            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Light_blue"
+195-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:275:13-65
+196            android:enabled="false"
+196-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:276:13-36
+197            android:icon="@mipmap/ic_launcher_light_blue"
+197-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:277:13-58
+198            android:roundIcon="@mipmap/ic_launcher_light_blue"
+198-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:278:13-63
+199            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+199-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:279:13-64
+200            <intent-filter>
+200-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+201                <action android:name="android.intent.action.MAIN" />
+201-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+201-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+202
+203                <category android:name="android.intent.category.LAUNCHER" />
+203-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+203-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+204            </intent-filter>
+205        </activity-alias>
+206        <activity-alias
+206-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:261:9-272:26
+207            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Blue"
+207-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:262:13-59
+208            android:enabled="false"
+208-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:263:13-36
+209            android:icon="@mipmap/ic_launcher_blue"
+209-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:264:13-52
+210            android:roundIcon="@mipmap/ic_launcher_blue"
+210-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:265:13-57
+211            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+211-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:266:13-64
+212            <intent-filter>
+212-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+213                <action android:name="android.intent.action.MAIN" />
+213-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+213-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+214
+215                <category android:name="android.intent.category.LAUNCHER" />
+215-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+215-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+216            </intent-filter>
+217        </activity-alias>
+218        <activity-alias
+218-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:248:9-259:26
+219            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Indigo"
+219-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:249:13-61
+220            android:enabled="false"
+220-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:250:13-36
+221            android:icon="@mipmap/ic_launcher_indigo"
+221-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:251:13-54
+222            android:roundIcon="@mipmap/ic_launcher_indigo"
+222-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:252:13-59
+223            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+223-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:253:13-64
+224            <intent-filter>
+224-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+225                <action android:name="android.intent.action.MAIN" />
+225-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+225-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+226
+227                <category android:name="android.intent.category.LAUNCHER" />
+227-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+227-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+228            </intent-filter>
+229        </activity-alias>
+230        <activity-alias
+230-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:235:9-246:26
+231            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Deep_purple"
+231-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:236:13-66
+232            android:enabled="false"
+232-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:237:13-36
+233            android:icon="@mipmap/ic_launcher_deep_purple"
+233-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:238:13-59
+234            android:roundIcon="@mipmap/ic_launcher_deep_purple"
+234-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:239:13-64
+235            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+235-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:240:13-64
+236            <intent-filter>
+236-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+237                <action android:name="android.intent.action.MAIN" />
+237-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+237-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+238
+239                <category android:name="android.intent.category.LAUNCHER" />
+239-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+239-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+240            </intent-filter>
+241        </activity-alias>
+242        <activity-alias
+242-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:222:9-233:26
+243            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Purple"
+243-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:223:13-61
+244            android:enabled="false"
+244-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:224:13-36
+245            android:icon="@mipmap/ic_launcher_purple"
+245-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:225:13-54
+246            android:roundIcon="@mipmap/ic_launcher_purple"
+246-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:226:13-59
+247            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+247-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:227:13-64
+248            <intent-filter>
+248-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+249                <action android:name="android.intent.action.MAIN" />
+249-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+249-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+250
+251                <category android:name="android.intent.category.LAUNCHER" />
+251-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+251-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+252            </intent-filter>
+253        </activity-alias>
+254        <activity-alias
+254-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:209:9-220:26
+255            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Pink"
+255-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:210:13-59
+256            android:enabled="false"
+256-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:211:13-36
+257            android:icon="@mipmap/ic_launcher_pink"
+257-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:212:13-52
+258            android:roundIcon="@mipmap/ic_launcher_pink"
+258-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:213:13-57
+259            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+259-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:214:13-64
+260            <intent-filter>
+260-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+261                <action android:name="android.intent.action.MAIN" />
+261-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+261-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+262
+263                <category android:name="android.intent.category.LAUNCHER" />
+263-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+263-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+264            </intent-filter>
+265        </activity-alias>
+266        <activity-alias
+266-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:196:9-207:26
+267            android:name="com.simplemobiletools.musicplayer.activities.SplashActivity.Red"
+267-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:197:13-58
+268            android:enabled="false"
+268-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:198:13-36
+269            android:icon="@mipmap/ic_launcher_red"
+269-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:199:13-51
+270            android:roundIcon="@mipmap/ic_launcher_red"
+270-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:200:13-56
+271            android:targetActivity="com.simplemobiletools.musicplayer.activities.SplashActivity" >
+271-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:201:13-64
+272            <intent-filter>
+272-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:203:13-206:29
+273                <action android:name="android.intent.action.MAIN" />
+273-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:17-69
+273-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:204:25-66
+274
+275                <category android:name="android.intent.category.LAUNCHER" />
+275-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:17-77
+275-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:205:27-74
+276            </intent-filter>
+277        </activity-alias>
+278
+279        <activity
+279-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:38:9-48:20
+280            android:name="com.simplemobiletools.musicplayer.activities.MainActivity"
+280-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:39:13-52
+281            android:launchMode="singleTask" >
+281-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:40:13-44
+282            <meta-data
+282-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:41:13-43:54
+283                android:name="android.app.default_searchable"
+283-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:42:17-62
+284                android:resource="@xml/searchable" />
+284-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:43:17-51
+285
+286            <intent-filter>
+286-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:45:13-47:29
+287                <action android:name="android.intent.action.SEARCH" />
+287-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:46:17-71
+287-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:46:25-68
+288            </intent-filter>
+289        </activity>
+290        <activity
+290-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:50:9-57:20
+291            android:name="com.simplemobiletools.musicplayer.activities.WidgetConfigureActivity"
+291-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:51:13-63
+292            android:screenOrientation="portrait"
+292-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:52:13-49
+293            android:theme="@style/MyWidgetConfigTheme" >
+293-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:53:13-55
+294            <intent-filter>
+294-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:54:13-56:29
+295                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+295-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:55:17-87
+295-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:55:25-84
+296            </intent-filter>
+297        </activity>
+298        <activity
+298-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:59:9-62:69
+299            android:name="com.simplemobiletools.commons.activities.AboutActivity"
+299-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:60:13-82
+300            android:label="@string/about"
+300-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:61:13-42
+301            android:parentActivityName="com.simplemobiletools.musicplayer.activities.MainActivity" />
+301-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:62:13-66
+302        <activity
+302-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:64:9-67:73
+303            android:name="com.simplemobiletools.commons.activities.CustomizationActivity"
+303-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:65:13-90
+304            android:label="@string/customize_colors"
+304-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:66:13-53
+305            android:parentActivityName="com.simplemobiletools.musicplayer.activities.SettingsActivity" />
+305-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:67:13-70
+306        <activity
+306-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:69:9-72:69
+307            android:name="com.simplemobiletools.musicplayer.activities.SettingsActivity"
+307-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:70:13-56
+308            android:label="@string/settings"
+308-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:71:13-45
+309            android:parentActivityName="com.simplemobiletools.musicplayer.activities.MainActivity" />
+309-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:72:13-66
+310        <activity
+310-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:74:9-77:69
+311            android:name="com.simplemobiletools.musicplayer.activities.EqualizerActivity"
+311-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:75:13-57
+312            android:label="@string/equalizer"
+312-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:76:13-46
+313            android:parentActivityName="com.simplemobiletools.musicplayer.activities.MainActivity" />
+313-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:77:13-66
+314        <activity
+314-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:79:9-82:69
+315            android:name="com.simplemobiletools.musicplayer.activities.AlbumsActivity"
+315-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:80:13-54
+316            android:label="@string/artist"
+316-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:81:13-43
+317            android:parentActivityName="com.simplemobiletools.musicplayer.activities.MainActivity" />
+317-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:82:13-66
+318        <activity
+318-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:84:9-87:71
+319            android:name="com.simplemobiletools.musicplayer.activities.TracksActivity"
+319-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:85:13-54
+320            android:label="@string/artist"
+320-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:86:13-43
+321            android:parentActivityName="com.simplemobiletools.musicplayer.activities.AlbumsActivity" />
+321-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:87:13-68
+322        <activity
+322-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:89:9-116:20
+323            android:name="com.simplemobiletools.musicplayer.activities.TrackActivity"
+323-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:90:13-53
+324            android:parentActivityName="com.simplemobiletools.musicplayer.activities.MainActivity"
+324-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:91:13-66
+325            android:theme="@style/TranslucentTheme" >
+325-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:92:13-52
+326            <intent-filter>
+326-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:94:13-103:29
+327                <action android:name="android.intent.action.VIEW" />
+327-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:95:17-69
+327-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:95:25-66
+328
+329                <category android:name="android.intent.category.DEFAULT" />
+329-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:96:17-76
+329-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:96:27-73
+330
+331                <data android:scheme="content" />
+331-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+331-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:23-47
+332                <data android:mimeType="audio/*" />
+332-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+332-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:99:23-49
+333                <data android:mimeType="application/ogg" />
+333-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+333-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:99:23-49
+334                <data android:mimeType="application/x-ogg" />
+334-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+334-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:99:23-49
+335                <data android:mimeType="application/itunes" />
+335-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+335-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:99:23-49
+336            </intent-filter>
+337            <intent-filter>
+337-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:105:13-114:29
+338                <action android:name="android.intent.action.VIEW" />
+338-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:95:17-69
+338-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:95:25-66
+339
+340                <category android:name="android.intent.category.DEFAULT" />
+340-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:96:17-76
+340-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:96:27-73
+341
+342                <data android:scheme="file" />
+342-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+342-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:23-47
+343                <data android:mimeType="audio/*" />
+343-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+343-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:99:23-49
+344                <data android:mimeType="application/ogg" />
+344-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+344-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:99:23-49
+345                <data android:mimeType="application/x-ogg" />
+345-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+345-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:99:23-49
+346                <data android:mimeType="application/itunes" />
+346-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:98:17-50
+346-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:99:23-49
+347            </intent-filter>
+348        </activity>
+349        <activity
+349-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:118:9-121:70
+350            android:name="com.simplemobiletools.musicplayer.activities.QueueActivity"
+350-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:119:13-53
+351            android:label="@string/track_queue"
+351-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:120:13-48
+352            android:parentActivityName="com.simplemobiletools.musicplayer.activities.TrackActivity" />
+352-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:121:13-67
+353
+354        <service
+354-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:123:9-146:19
+355            android:name="com.simplemobiletools.musicplayer.services.MusicService"
+355-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:124:13-50
+356            android:exported="false" >
+356-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:125:13-37
+357            <intent-filter>
+357-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:126:13-145:29
+358                <action android:name="com.simplemobiletools.musicplayer.action.INIT" />
+358-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:127:17-88
+358-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:127:25-85
+359                <action android:name="com.simplemobiletools.musicplayer.action.INIT_PATH" />
+359-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:128:17-93
+359-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:128:25-90
+360                <action android:name="com.simplemobiletools.musicplayer.action.INIT_QUEUE" />
+360-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:129:17-94
+360-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:129:25-91
+361                <action android:name="com.simplemobiletools.musicplayer.action.FINISH" />
+361-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:130:17-90
+361-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:130:25-87
+362                <action android:name="com.simplemobiletools.musicplayer.action.FINISH_IF_NOT_PLAYING" />
+362-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:131:17-105
+362-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:131:25-102
+363                <action android:name="com.simplemobiletools.musicplayer.action.PREVIOUS" />
+363-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:132:17-92
+363-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:132:25-89
+364                <action android:name="com.simplemobiletools.musicplayer.action.PAUSE" />
+364-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:133:17-89
+364-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:133:25-86
+365                <action android:name="com.simplemobiletools.musicplayer.action.PLAYPAUSE" />
+365-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:134:17-93
+365-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:134:25-90
+366                <action android:name="com.simplemobiletools.musicplayer.action.NEXT" />
+366-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:135:17-88
+366-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:135:25-85
+367                <action android:name="com.simplemobiletools.musicplayer.action.EDIT" />
+367-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:136:17-88
+367-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:136:25-85
+368                <action android:name="com.simplemobiletools.musicplayer.action.PLAY_TRACK" />
+368-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:137:17-94
+368-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:137:25-91
+369                <action android:name="com.simplemobiletools.musicplayer.action.REFRESH_LIST" />
+369-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:138:17-96
+369-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:138:25-93
+370                <action android:name="com.simplemobiletools.musicplayer.action.UPDATE_NEXT_TRACK" />
+370-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:139:17-101
+370-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:139:25-98
+371                <action android:name="com.simplemobiletools.musicplayer.action.SET_PROGRESS" />
+371-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:140:17-96
+371-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:140:25-93
+372                <action android:name="com.simplemobiletools.musicplayer.action.SKIP_BACKWARD" />
+372-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:141:17-97
+372-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:141:25-94
+373                <action android:name="com.simplemobiletools.musicplayer.action.SKIP_FORWARD" />
+373-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:142:17-96
+373-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:142:25-93
+374                <action android:name="com.simplemobiletools.musicplayer.action.SET_PLAYBACK_SPEED" />
+374-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:143:17-102
+374-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:143:25-99
+375                <action android:name="com.simplemobiletools.musicplayer.action.BROADCAST_STATUS" />
+375-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:144:17-100
+375-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:144:25-97
+376            </intent-filter>
+377        </service>
+378
+379        <receiver
+379-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:148:9-157:20
+380            android:name="com.simplemobiletools.musicplayer.helpers.MyWidgetProvider"
+380-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:149:13-53
+381            android:icon="@drawable/img_widget_preview" >
+381-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:150:13-56
+382            <intent-filter>
+382-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:151:13-153:29
+383                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+383-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:152:17-84
+383-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:152:25-81
+384            </intent-filter>
+385
+386            <meta-data
+386-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:154:13-156:55
+387                android:name="android.appwidget.provider"
+387-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:155:17-58
+388                android:resource="@xml/widget_info" />
+388-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:156:17-52
+389        </receiver>
+390        <receiver
+390-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:159:9-167:20
+391            android:name="com.simplemobiletools.musicplayer.receivers.RemoteControlReceiver"
+391-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:160:13-60
+392            android:enabled="true"
+392-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:161:13-35
+393            android:exported="true" >
+393-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:162:13-36
+394            <intent-filter android:priority="999" >
+394-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:163:13-166:29
+394-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:163:28-50
+395                <action android:name="android.intent.action.MEDIA_BUTTON" />
+395-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:164:17-77
+395-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:164:25-74
+396
+397                <category android:name="android.intent.category.DEFAULT" />
+397-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:96:17-76
+397-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:96:27-73
+398            </intent-filter>
+399        </receiver>
+400        <receiver android:name="com.simplemobiletools.musicplayer.receivers.HeadsetPlugReceiver" >
+400-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:169:9-173:20
+400-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:169:19-64
+401            <intent-filter>
+401-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:170:13-172:29
+402                <action android:name="android.intent.action.ACTION_HEADSET_PLUG" />
+402-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:171:17-84
+402-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:171:25-81
+403            </intent-filter>
+404        </receiver>
+405        <receiver android:name="com.simplemobiletools.musicplayer.receivers.ControlActionsListener" />
+405-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:175:9-70
+405-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:175:19-67
+406        <receiver
+406-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:177:9-184:20
+407            android:name="com.simplemobiletools.musicplayer.receivers.NotificationDismissedReceiver"
+407-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:178:13-68
+408            android:enabled="true"
+408-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:179:13-35
+409            android:exported="true" >
+409-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:180:13-36
+410            <intent-filter>
+410-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:181:13-183:29
+411                <action android:name="com.simplemobiletools.musicplayer.action.NOTIFICATION_DISMISSED" />
+411-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:182:17-106
+411-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:182:25-103
+412            </intent-filter>
+413        </receiver>
+414
+415        <provider
+416            android:name="androidx.core.content.FileProvider"
+416-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:187:13-62
+417            android:authorities="com.simplemobiletools.musicplayer.debug.provider"
+417-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:188:13-60
+418            android:exported="false"
+418-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:189:13-37
+419            android:grantUriPermissions="true" >
+419-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:190:13-47
+420            <meta-data
+420-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:191:13-193:58
+421                android:name="android.support.FILE_PROVIDER_PATHS"
+421-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:192:17-67
+422                android:resource="@xml/provider_paths" />
+422-->C:\Users\saravanakumar\AndroidStudioProjects\Vignesh-kotlin\app\src\main\AndroidManifest.xml:193:17-55
+423        </provider>
+424
+425        <activity
+425-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:32:9-35:99
+426            android:name="com.simplemobiletools.commons.activities.ContributorsActivity"
+426-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:33:13-89
+427            android:label="@string/contributors"
+427-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:34:13-49
+428            android:parentActivityName="com.simplemobiletools.commons.activities.AboutActivity" />
+428-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:35:13-96
+429        <activity
+429-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:36:9-39:99
+430            android:name="com.simplemobiletools.commons.activities.FAQActivity"
+430-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:37:13-80
+431            android:label="@string/frequently_asked_questions"
+431-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:38:13-63
+432            android:parentActivityName="com.simplemobiletools.commons.activities.AboutActivity" />
+432-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:39:13-96
+433        <activity
+433-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:40:9-43:99
+434            android:name="com.simplemobiletools.commons.activities.LicenseActivity"
+434-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:41:13-84
+435            android:label="@string/third_party_licences"
+435-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:42:13-57
+436            android:parentActivityName="com.simplemobiletools.commons.activities.AboutActivity" />
+436-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:43:13-96
+437
+438        <receiver
+438-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:45:9-53:20
+439            android:name="com.simplemobiletools.commons.receivers.SharedThemeReceiver"
+439-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:46:13-87
+440            android:enabled="true"
+440-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:47:13-35
+441            android:exported="true" >
+441-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:48:13-36
+442            <intent-filter>
+442-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:49:13-52:29
+443                <action android:name="com.simplemobiletools.commons.SHARED_THEME_ACTIVATED" />
+443-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:50:17-95
+443-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:50:25-92
+444                <action android:name="com.simplemobiletools.commons.SHARED_THEME_UPDATED" />
+444-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:51:17-93
+444-->[com.github.SimpleMobileTools:Simple-Commons:df457fe86a] C:\Users\saravanakumar\.gradle\caches\transforms-3\d035e98fea9a9ace2185c55b2a140a45\transformed\jetified-Simple-Commons-df457fe86a\AndroidManifest.xml:51:25-90
+445            </intent-filter>
+446        </receiver>
+447
+448        <service
+448-->[androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+449            android:name="androidx.room.MultiInstanceInvalidationService"
+449-->[androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+450            android:directBootAware="true"
+450-->[androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+451            android:exported="false" />
+451-->[androidx.room:room-runtime:2.3.0] C:\Users\saravanakumar\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+452    </application>
+453
+454</manifest>
